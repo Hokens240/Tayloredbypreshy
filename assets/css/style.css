@@ -3455,7 +3455,9 @@ hr {
 
 .clients-testimonial .clients-speech-active button.slick-arrow i {
     font-size: 30px;
-    color: #c6a16e
+    color: #c6a16e;
+    background-color: #000;
+    padding: 10px;
 }
 
 @media (max-width: 767px) {
